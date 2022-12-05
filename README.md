@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 ### 👋 Hi, I'm RetroSeven
 
 **🦊 I'm a sixteen year old 🎓 student and 👩‍💻 programmer.**
-- 🎨 I'm experienced with 🌐 web development, 💬 Discord bots and ⛏ Minecraft plug-ins
+- 🎨 I'm experienced with 🌐 web development, 💬 Discord bots and ⛏ Minecraft modding and plug-ins
 - 📚 I'm self-taught, but I'm also studying an 💻 IT-focused school
-- 💵 I work both for free and for profit, provided you will do the same 😉
+- 💵 I work for free only when you do as well
 
 **📖 My programming languages**
-- C++ since 2018
-- Java+Kotlin since 2019
-- JavaScript+TypeScript since 2020
+- C and C++ since 2018
+- Java and Kotlin since 2019
+- JavaScript and TypeScript since 2020
 - Rust since 2021
-- C# since 2022 (✨ .NET is my favourite platform)
-- Currently looking at F#
+- C#, Swift and Objective-C since 2022
+- Currently looking at Nim
 
 **👩‍⚖️ My work experiences**
 - [2021 - 2022] Developer at BasicLand.cz
