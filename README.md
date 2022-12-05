@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I'm RetroSeven
 
-**🦊 I'm a sixteen year old 🎓 student and 👩‍💻 programmer who loves working for ✨ awesome communities.**
+**🦊 I'm a sixteen year old 🎓 student and 👩‍💻 programmer.
 - 🎨 I'm experienced with 🌐 web development, 💬 Discord bots and ⛏ Minecraft plug-ins
 - 📚 I'm self-taught, but I'm also studying an 💻 IT-focused school
 - 💵 I work both for free and for profit, provided you will do the same 😉
