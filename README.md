@@ -7,7 +7,7 @@
   - Minecraft modding and plug-ins
   - Discord bots
   - Web development (sadly)
-- 📚 I learned most of this stuff myself
+- 📚 I have learned most of this stuff myself
 
 **📖 My programming languages**
 - I love using
