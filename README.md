@@ -1,22 +1,22 @@
-### 👋 Hi, I'm RetroSeven, also known as Dexter
+### 👋 Hi, I'm DexterHaxxor
 
-**🦊 I'm a sixteen year old student and programmer.**
+**🦊 I'm a Czech student and programmer.**
 - 🎨 I'm experienced with a wide variety of topics:
   - Systems programming
   - Programming language development
   - Minecraft modding and plug-ins
   - Discord bots
-  - Web development (sadly)
+  - Web development
 - 📚 I have learned most of this stuff myself
 
 **📖 My programming languages**
 - I love using
-  - C, C++
   - C#
   - Rust
   - JavaScript, TypeScript
   - Lua
 - I also know how to use
+  - C, C++
   - Java, Kotlin
   - Swift, Objective-C
   - PHP
