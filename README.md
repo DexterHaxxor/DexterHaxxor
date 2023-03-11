@@ -1,18 +1,18 @@
 ### 👋 Hi, I'm DexterHaxxor
 
 **🦊 I'm a Czech student and programmer.**
-- 🎨 I'm experienced with a wide variety of topics:
+- 🎨 Non-exhaustive list of things I've worked with:
   - Systems programming
   - Programming language development
   - Minecraft modding and plug-ins
   - Discord bots
   - Web development
-- 📚 I have learned most of this stuff myself
+- 📚 Most of my programming skills are self-taught
 
 **📖 My programming languages**
 - I love using
-  - C#
   - Rust
+  - C#
   - JavaScript, TypeScript
   - Lua
 - I also know how to use
