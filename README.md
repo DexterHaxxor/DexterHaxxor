@@ -1,24 +1,24 @@
-### 👋 Hi, I'm DexterHaxxor
+### 👋 Hi, I'm DexterHaxxor!
 
 **🦊 I'm a Czech student and programmer.**
-- 🎨 Non-exhaustive list of things I've worked with:
+- 🎨 Some things I've worked with:
   - Systems programming
   - Programming language development
   - Minecraft modding and plug-ins
   - Discord bots
   - Web development
-- 📚 Most of my programming skills are self-taught
+- 📚 Most of my programming skills are self-taught.
 
-**📖 My programming languages**
-- I love using
+**📖 Programming languages**
+- My favourites are:
   - Rust
   - C#
   - JavaScript, TypeScript
   - Lua
-- I also know how to use
+- I'm experienced with:
   - C, C++
   - Java, Kotlin
   - Swift, Objective-C
   - PHP
 
-**🦊 I have an unhealthy obsession with foxes**
+**🦊 I am obsessed with foxes.**
