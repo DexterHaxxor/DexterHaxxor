@@ -13,10 +13,10 @@
 - My favourites are:
   - Rust
   - C#
+  - C, C++
   - JavaScript, TypeScript
   - Lua
 - I'm experienced with:
-  - C, C++
   - Java, Kotlin
   - Swift, Objective-C
   - PHP
