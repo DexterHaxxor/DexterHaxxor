@@ -11,12 +11,13 @@
 
 **📖 Programming languages**
 - My favourites are:
-  - Rust
   - C#
   - C, C++
+  - Rust
   - JavaScript, TypeScript
   - Lua
 - I'm experienced with:
+  - Python
   - Java, Kotlin
   - Swift, Objective-C
   - PHP
