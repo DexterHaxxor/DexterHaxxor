@@ -2,9 +2,9 @@
 
 **🦊 I'm a Czech student and programmer.**
 
-- 🎨 Some things I've worked with:
+- 🎨 Things I've worked with:
+  - 3D Graphics (OpenGL/Vulkan)
   - Systems programming
-  - Programming language development
   - Minecraft modding and plug-ins
   - Discord bots
   - Web development
