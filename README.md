@@ -1,6 +1,6 @@
-### 👋 Hi, I'm DexterHaxxor!
+### 👋 Hi, I'm Dexter!
 
-**🦊 I'm a Czech student and programmer.**
+**I'm a Czech student and programmer.**
 
 - 🎨 Things I've worked with:
   - 3D Graphics (OpenGL/Vulkan)
@@ -8,6 +8,7 @@
   - Minecraft modding and plug-ins
   - Discord bots
   - Web development
+  - Foxes 🦊
 - 📚 Student at the Faculty of Applied Sciences at the University of West Bohemia.
 
 **📖 Programming languages**
@@ -24,5 +25,3 @@
   - Java, Kotlin
   - Swift, Objective-C
   - PHP
-
-**🦊 I like foxes.**
